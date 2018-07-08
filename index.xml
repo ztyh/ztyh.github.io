@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>ztyh</copyright>
-    <lastBuildDate>Sun, 08 Jul 2018 11:41:35 -0400</lastBuildDate>
+    <lastBuildDate>Sun, 08 Jul 2018 12:30:22 -0400</lastBuildDate>
     
 	<atom:link href="http://ztyh.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>天行健</title>
+      <link>http://ztyh.github.io/post/word/</link>
+      <pubDate>Sun, 08 Jul 2018 12:30:22 -0400</pubDate>
+      
+      <guid>http://ztyh.github.io/post/word/</guid>
+      <description>君子以自彊不息</description>
+    </item>
     
     <item>
       <title>よろしく</title>
