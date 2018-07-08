@@ -3,7 +3,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://ztyh.github.io/posts/hello/</loc>
+    <loc>http://ztyh.github.io/post/hello/</loc>
     <lastmod>2018-07-08T11:41:35-04:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -22,7 +22,7 @@
   </url>
   
   <url>
-    <loc>http://ztyh.github.io/posts/</loc>
+    <loc>http://ztyh.github.io/post/</loc>
     <lastmod>2018-07-08T11:41:35-04:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
