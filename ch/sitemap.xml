@@ -3,82 +3,82 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/ch/categories/</loc>
+    <loc>http://ztyh.github.io/ch/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="http://example.org/categories/"
+                href="http://ztyh.github.io/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/en/categories/"
+                href="http://ztyh.github.io/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ch"
-                href="http://example.org/ch/categories/"
+                href="http://ztyh.github.io/ch/"
                 />
   </url>
   
   <url>
-    <loc>http://example.org/ch/tags/</loc>
+    <loc>http://ztyh.github.io/ch/categories/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="http://example.org/tags/"
+                href="http://ztyh.github.io/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/en/tags/"
+                href="http://ztyh.github.io/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ch"
-                href="http://example.org/ch/tags/"
+                href="http://ztyh.github.io/ch/categories/"
                 />
   </url>
   
   <url>
-    <loc>http://example.org/ch/ua-47268287-3/</loc>
+    <loc>http://ztyh.github.io/ch/tags/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="http://example.org/ua-47268287-3/"
+                href="http://ztyh.github.io/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/en/ua-47268287-3/"
+                href="http://ztyh.github.io/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ch"
-                href="http://example.org/ch/ua-47268287-3/"
+                href="http://ztyh.github.io/ch/tags/"
                 />
   </url>
   
   <url>
-    <loc>http://example.org/ch/</loc>
+    <loc>http://ztyh.github.io/ch/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="http://example.org/"
+                href="http://ztyh.github.io/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/en/"
+                href="http://ztyh.github.io/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ch"
-                href="http://example.org/ch/"
+                href="http://ztyh.github.io/ch/"
                 />
   </url>
   
