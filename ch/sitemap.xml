@@ -7,13 +7,13 @@
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
-                hreflang="ja"
-                href="http://ztyh.github.io/"
+                hreflang="en"
+                href="http://ztyh.github.io/en/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="http://ztyh.github.io/en/"
+                hreflang="ja"
+                href="http://ztyh.github.io/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -27,13 +27,13 @@
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
-                hreflang="ja"
-                href="http://ztyh.github.io/categories/"
+                hreflang="en"
+                href="http://ztyh.github.io/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="http://ztyh.github.io/en/categories/"
+                hreflang="ja"
+                href="http://ztyh.github.io/categories/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -47,13 +47,13 @@
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
-                hreflang="ja"
-                href="http://ztyh.github.io/tags/"
+                hreflang="en"
+                href="http://ztyh.github.io/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="http://ztyh.github.io/en/tags/"
+                hreflang="ja"
+                href="http://ztyh.github.io/tags/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -67,18 +67,56 @@
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
-                hreflang="ja"
-                href="http://ztyh.github.io/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="en"
                 href="http://ztyh.github.io/en/"
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="ja"
+                href="http://ztyh.github.io/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="ch"
                 href="http://ztyh.github.io/ch/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://ztyh.github.io/ch/about/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://ztyh.github.io/en/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="http://ztyh.github.io/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ch"
+                href="http://ztyh.github.io/ch/about/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://ztyh.github.io/ch/contact/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://ztyh.github.io/en/contact/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="http://ztyh.github.io/contact/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ch"
+                href="http://ztyh.github.io/ch/contact/"
                 />
   </url>
   

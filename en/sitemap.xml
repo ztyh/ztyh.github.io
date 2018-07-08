@@ -23,6 +23,25 @@
   </url>
   
   <url>
+    <loc>http://ztyh.github.io/en/about/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ch"
+                href="http://ztyh.github.io/ch/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="http://ztyh.github.io/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://ztyh.github.io/en/about/"
+                />
+  </url>
+  
+  <url>
     <loc>http://ztyh.github.io/en/categories/</loc>
     <priority>0</priority>
     <xhtml:link
@@ -79,6 +98,25 @@
                 rel="alternate"
                 hreflang="en"
                 href="http://ztyh.github.io/en/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://ztyh.github.io/en/contact/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ch"
+                href="http://ztyh.github.io/ch/contact/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="http://ztyh.github.io/contact/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://ztyh.github.io/en/contact/"
                 />
   </url>
   

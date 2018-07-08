@@ -6,9 +6,37 @@
     <description>Recent content on ztyh</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
+    <lastBuildDate>Sun, 08 Jul 2018 11:41:35 -0400</lastBuildDate>
     
 	<atom:link href="http://ztyh.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>よろしく</title>
+      <link>http://ztyh.github.io/posts/hello/</link>
+      <pubDate>Sun, 08 Jul 2018 11:41:35 -0400</pubDate>
+      
+      <guid>http://ztyh.github.io/posts/hello/</guid>
+      <description>三日坊主にならないように頑張ります。</description>
+    </item>
+    
+    <item>
+      <title>概要</title>
+      <link>http://ztyh.github.io/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://ztyh.github.io/about/</guid>
+      <description>活動報告。</description>
+    </item>
+    
+    <item>
+      <title>連絡</title>
+      <link>http://ztyh.github.io/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://ztyh.github.io/contact/</guid>
+      <description>ztyh0121@gmail.com</description>
+    </item>
     
   </channel>
 </rss>

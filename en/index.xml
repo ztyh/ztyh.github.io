@@ -10,5 +10,23 @@
 	<atom:link href="http://ztyh.github.io/en/index.xml" rel="self" type="application/rss+xml" />
     
     
+    <item>
+      <title>About</title>
+      <link>http://ztyh.github.io/en/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://ztyh.github.io/en/about/</guid>
+      <description>Uploading things.</description>
+    </item>
+    
+    <item>
+      <title>連絡</title>
+      <link>http://ztyh.github.io/en/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://ztyh.github.io/en/contact/</guid>
+      <description>ztyh0121@gmail.com</description>
+    </item>
+    
   </channel>
 </rss>
