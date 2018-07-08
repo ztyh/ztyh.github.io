@@ -3,29 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://ztyh.github.io/site/posts/hello/</loc>
-    <lastmod>2018-07-07T21:44:30-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://ztyh.github.io/site/categories/</loc>
+    <loc>http://example.org/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://ztyh.github.io/site/</loc>
-    <lastmod>2018-07-07T21:44:30-04:00</lastmod>
+    <loc>http://example.org/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://ztyh.github.io/site/posts/</loc>
-    <lastmod>2018-07-07T21:44:30-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://ztyh.github.io/site/tags/</loc>
+    <loc>http://example.org/tags/</loc>
     <priority>0</priority>
   </url>
   
