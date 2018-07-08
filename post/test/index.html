@@ -223,16 +223,16 @@ import pandas as pd
 <li>c<br /></li>
 </ul>
 
-<p>大事なことは**で囲む
-<strong>大事な</strong> こと
+<p>大事なことは**で囲む<br />
+<strong>大事な</strong> こと<br />
 _三本でまっすぐな線</p>
 
 <hr />
 
-<p>リンクは()で囲む
-その前に[]でリンク名
+<p>リンクは()で囲む<br />
+その前に[]でリンク名<br />
 <a href="http://personal.psu.edu/zxy124">俺のサイト</a><br />
-数式は\$あるいは\$\$で囲む $\pi$
+数式は\$あるいは\$\$で囲む $\pi$<br />
 $$
 \exp(i\pi)=-1
 $$</p>
@@ -332,6 +332,15 @@ $$</p>
 
 
 <script type="text/javascript" src="/dist/even.min.js?v=3.2.0"></script>
+  <script type="text/javascript">
+    window.MathJax = {
+      tex2jax: {inlineMath: [['$','$'], ['\\(','\\)']]},
+      TeX: {equationNumbers: {autoNumber: "AMS"}},
+      showProcessingMessages: false,
+      messageStyle: 'none'
+    };
+  </script>
+  <script type="text/javascript" async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.2/MathJax.js?config=TeX-MML-AM_CHTML"></script>
 
 
 <script>
