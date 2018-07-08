@@ -5,7 +5,8 @@
     <link>http://ztyh.github.io/posts/</link>
     <description>Recent content in Posts on ztyh</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>ja-jp</language>
+    <language>en</language>
+    <copyright>ztyh</copyright>
     <lastBuildDate>Sun, 08 Jul 2018 11:41:35 -0400</lastBuildDate>
     
 	<atom:link href="http://ztyh.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
