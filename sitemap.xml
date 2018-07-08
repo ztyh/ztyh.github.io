@@ -49,14 +49,28 @@
   </url>
   
   <url>
+    <loc>http://ztyh.github.io/tags/%E4%B8%AD%E6%96%87/</loc>
+    <lastmod>2018-07-08T12:30:22-04:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://ztyh.github.io/about.ch/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://ztyh.github.io/tags/%E6%97%A5%E6%9C%AC%E8%AA%9E/</loc>
+    <loc>http://ztyh.github.io/categories/%E6%8C%A8%E6%8B%B6/</loc>
     <lastmod>2018-07-08T11:41:35-04:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://ztyh.github.io/tags/%E6%97%A5%E6%9C%AC%E8%AA%9E/</loc>
+    <lastmod>2018-07-08T12:30:22-04:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
