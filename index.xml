@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Impreza</title>
-    <link>http://ztyh.github.io/</link>
+    <link>http://ztyh.github.io/site/</link>
     <description>Recent content on Impreza</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
     <lastBuildDate>Sat, 07 Jul 2018 21:44:30 -0400</lastBuildDate>
     
-        <atom:link href="http://ztyh.github.io/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://ztyh.github.io/site/index.xml" rel="self" type="application/rss+xml" />
     
     
     
