@@ -18,7 +18,7 @@
       <pubDate>Sun, 08 Jul 2018 14:32:54 -0400</pubDate>
       
       <guid>http://ztyh.github.io/post/test/</guid>
-      <description>自分用です。 (tab) 1+1 import pandas as pd &amp;rdquo;&amp;lsquo;.jl x=1 &amp;ldquo;&amp;rsquo; &amp;gt;うまいもの &amp;gt;&amp;gt;食べたいね pythonあるいは&amp;rsquo;julia&amp;rsquo; 大きい声</description>
+      <description>自分用です。コードブロックは、 \`\`\`.py import pandas as pd \`\`\` でこうなる import pandas as pd 引用は&amp;gt;でできる &amp;gt;うまいもの &amp;gt;&amp;gt;食べたいね ちょっとしたコ</description>
     </item>
     
   </channel>
