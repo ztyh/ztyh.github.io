@@ -3,6 +3,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://ztyh.github.io/post/gsstock/</loc>
+    <lastmod>2018-07-14T15:04:16-04:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>http://ztyh.github.io/post/nutrition/</loc>
     <lastmod>2018-07-14T14:47:52-04:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -52,7 +59,7 @@
   
   <url>
     <loc>http://ztyh.github.io/post/</loc>
-    <lastmod>2018-07-14T14:47:52-04:00</lastmod>
+    <lastmod>2018-07-14T15:04:16-04:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
@@ -66,7 +73,7 @@
   
   <url>
     <loc>http://ztyh.github.io/</loc>
-    <lastmod>2018-07-14T14:47:52-04:00</lastmod>
+    <lastmod>2018-07-14T15:04:16-04:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
