@@ -205,7 +205,7 @@ L=\sum_{(u,v)\in D} \log {\exp(-d(u,v))}-\log {\sum_{v&rsquo; \in N(u)} \exp(-d(
 $$
 $D$ってのは繋がってるペアの集合です。$N(u)$ってのは$u$と繋がっていない点の集合です。繋がってる点どうしは近くに、繋がっていない点どうしは遠くに置くとこの関数は大きくなります。ですからまず最初に適当に（それなりに散らばせたりした方がいいという話もある）埋め込んでこの$L$が大きくなるように勾配降下法で更新していきます。埋め込まれた点を$u_1$, $u_2$, $\cdots$, $u_n$とします。これを変えると$L$がどうなるか知りたいわけだから勾配は$(\partial L/\partial u_1,\partial L/\partial u_2,\cdots, \partial L/\partial u_n)^t$です。この勾配ベクトルを$\nabla_E$と表記します。EuclideanのEです。各項はこんな感じです。
 $$
-\frac{\partial L}{\partial u<em>i}=\sum</em>{j=1}^n\frac{\partial L}{\partial d(u_i,u_j)}\frac{\partial d(u_i,u_j)}{\partial u_i}
+\frac{\partial L}{\partial u_i}=\sum_{j=1}^n\frac{\partial L}{\partial d(u_i,u_j)}\frac{\partial d(u_i,u_j)}{\partial u_i}
 $$
 なかなか大変そうです。このままじゃあ実はだめです。というのはこの勾配はユークリッド空間のであってポアンカレ円板のじゃないからです。</p>
 
@@ -217,11 +217,11 @@ d(u,u+\Delta u)^2=\Delta u^t A \Delta u
 $$
 となる$A$の$\Delta u$を0に極限まで近づけたときの値です。左辺はその距離構造における$u$から発する微小線分の長さの二乗です。右辺はその微小線分の二次形式になってます。つまりポアンカレ円板での距離（の二乗）をユークリッド空間での距離の二次形式で表してます。この$A$が計量テンソルです。テンソルってのは行列の拡張です。注意されたいのはこの$A$が$u$の関数だってことです。求め方ですがまず
 $$
-\frac{\partial d(u,v)}{\partial v}|<em>{v=u}
+\frac{\partial d(u,v)}{\partial v}|_{v=u}
 $$
 を求めます。すると以下が得られます。
 $$
-\frac{2\lim</em>{v\rightarrow u \frac{u-v}{|u-v|}}}{1-u^t u}
+\frac{2\lim_{v\rightarrow u \frac{u-v}{|u-v|}}}{1-u^t u}
 $$
 ベクトルで微分してるのでこれもベクトルです。こんなことしていいのかよくわかりませんが$du=\lim_{v\rightarrow u \frac{u-v}{|u-v|}}$と置きます。すると自分自身と内積をとって
 $$
